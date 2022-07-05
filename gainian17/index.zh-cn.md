@@ -7,7 +7,7 @@ authors: ["yangsi"]
 description: "1.1 Metaverse元宇宙：现实与虚拟世界互相平行、相互影响
 Metaverse译为元宇宙，是由meta（超越）和取自universe（宇宙）的verse两个单词组合，此概念出自尼尔·斯蒂芬森(Neal Stephenson)1992年发布的科幻小说《雪崩》。"
 featuredImage: "41.jpg"
-tags: ["元宇宙","深度沉浸,"交互式""元宇宙特质""元宇宙发展"]
+tags: ["元宇宙","深度沉浸,"交互式","元宇宙特质","元宇宙发展"]
 categories: ["news"]
 news: ["元宇宙"]
 weight: 
