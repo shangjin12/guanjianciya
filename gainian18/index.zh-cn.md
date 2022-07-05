@@ -7,7 +7,7 @@ authors: ["yangsi"]
 description: "元宇宙的起源
 似乎只要一提到**元宇宙**Metaverse，我们就会把雪崩【SNOW CRASH】搬出来，因为“元宇宙”这个词首先出现于这本小说，一本由科幻小说家Neal Stephenson在1992年创作的小说。"
 featuredImage: "11.jpg"
-tags: ["元宇宙的起源","元宇宙的定义","虚拟平台""元宇宙的核心应用","元宇宙的趋势","区块链",]
+tags: ["元宇宙的起源","元宇宙的定义","虚拟平台","元宇宙的核心应用","元宇宙的趋势","区块链",]
 categories: ["news"]
 news: ["元宇宙"]
 weight: 
